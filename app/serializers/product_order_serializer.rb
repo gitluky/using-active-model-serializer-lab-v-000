@@ -1,3 +1,3 @@
 class ProductOrderSerializer < ActiveModel::Serializer
-  attributes :name
+  attributes :id, :iname, :description, :price, :inventory, :created_at
 end

@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'active-model-serializer'
+gem 'active_model_serializer'
 gem 'pry'
 gem 'pry-nav'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'

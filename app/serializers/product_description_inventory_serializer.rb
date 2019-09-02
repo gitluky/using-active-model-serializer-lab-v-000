@@ -1,3 +1,3 @@
 class ProductDescriptionInventorySerializer < ActiveModel::Serializer
-  attributes :id
+  attributes :description, :inventory
 end
